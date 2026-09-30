@@ -1,0 +1,6 @@
+{
+  "name": "PDF Toolkit",
+  "description": "Fast and powerful in-browser PDF manipulation suite to merge, split, rotate, watermark, and edit PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
